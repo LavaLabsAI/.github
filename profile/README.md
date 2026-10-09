@@ -5,7 +5,7 @@
 <h1 align="center">Lava Labs</h1>
 <p align="center"><b>Advancing Safe AI. Strengthening Cyber Defense.</b></p>
 
-Lava Labs is a 501(c)(3) nonprofit think tank focused on AI safety and cybersecurity research. We help people and institutions adopt AI more safely, responsibly, and effectively by studying implementation risks and cybersecurity challenges, then turning that work into research, education, and practical public guidance.
+Lava Labs is a 501(c)(3) nonprofit focused on AI safety and cybersecurity research. We help people and institutions adopt AI more safely, responsibly, and effectively by studying implementation risks and cybersecurity challenges, then turning that work into research, education, and practical public guidance.
 
 ### What we do
 
